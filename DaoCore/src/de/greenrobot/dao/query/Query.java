@@ -17,7 +17,7 @@ package de.greenrobot.dao.query;
 
 import java.util.List;
 
-import android.database.Cursor;
+import net.sqlcipher.Cursor;
 import android.os.Process;
 import de.greenrobot.dao.AbstractDao;
 import de.greenrobot.dao.DaoException;
