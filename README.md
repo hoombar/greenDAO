@@ -1,3 +1,11 @@
+greenDao-SQLCipher
+========
+You need to grab the JAR from the bin folder for DaoGenerator and add it to your generation code, this will create all of the ORM java files pointing to the SQLCipher namespace instead of the android.database one.
+You'll also need to grab the JAR for the DaoCore and add it to your project.
+
+This snapshot contains all of the code from GreenDao up to 1.3.7
+
+
 greenDAO
 ========
 greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. Being highly optimized for Android, greenDAO offers great performance and consumes minimal memory.
